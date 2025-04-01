@@ -13,6 +13,7 @@ The goal was to simulate a live stock market feed and build a complete data pipe
   - Glue Crawler + Glue Catalog (schema detection & metadata management)
   - Athena (querying S3 data with SQL)
 
+## Architechture
 ![Architecture](https://github.com/user-attachments/assets/d210cfe1-3312-461d-92ba-48cbf70fe2ca)
 
  
